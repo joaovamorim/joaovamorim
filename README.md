@@ -2,7 +2,7 @@
 # Hello, I am João Amorim 👊
 ### Software Developer .NET
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovamorim/){target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovamorim/)
 
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=joaovamorim&theme=dark)
 
