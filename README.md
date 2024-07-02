@@ -8,6 +8,7 @@
 
 ### Technologies of my work:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/CSharp-993399?style=for-the-badge&logo=csharp&logoColor=white">
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-993399?style=for-the-badge&logo=dotnet&logoColor=white">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/Csharp-993399?style=for-the-badge&logo=csharp&logoColor=white">
+    <img align="center" alt=".NET 6" src="https://img.shields.io/badge/.NET 6-993399?style=for-the-badge&logo=dotnet&logoColor=white">
+    <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-993399?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
