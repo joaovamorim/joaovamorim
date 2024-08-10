@@ -11,4 +11,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/Csharp-993399?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt=".NET 6" src="https://img.shields.io/badge/.NET 6-993399?style=for-the-badge&logo=dotnet&logoColor=white">
     <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-993399?style=for-the-badge&logo=dotnet&logoColor=white">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Oracle SQL" src="https://img.shields.io/badge/Oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
