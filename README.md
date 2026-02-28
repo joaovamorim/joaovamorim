@@ -1,6 +1,6 @@
 
 ### Hello, I am João Amorim 👊
-### .NET Jr Software Developer
+### Software Developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovamorim/)
 
